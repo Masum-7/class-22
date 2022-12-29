@@ -1,0 +1,181 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto Mono', monospace;
+}
+img{
+    max-width: 100%;
+}
+
+
+
+
+
+nav.navbar.navbar-expand-sm.navbar-light.bg-light {
+    background: #fff !important;
+}
+
+.head img{
+    height: 60px;
+    width: 95px;
+}
+
+.jon-menu .nav-item:first-child{
+
+    margin-left: 551px;
+}
+
+.jon-menu .nav-item{
+    padding-right: 22px;
+}
+
+/* about */
+.about{
+    background-color: #f9f9ff;
+}
+.about .me-inr{
+    width: 610px;
+}
+.about .lft{
+    position: relative;
+    top: 110px;
+}
+.hero img{
+    width: 300px;
+    height: auto;
+}
+
+.hero-img img{
+    padding: 10px;
+    border: 3px solid rgba(221, 221, 221, 0.373);
+    border-radius: 5px;
+    width: 600px;
+}
+
+.hero .hero-text{
+    width: 610px;
+    position: relative;
+    top: 80px;
+}
+
+/* score */
+.score{
+    background-color: #8490ff;
+}
+
+
+
+/* econo */
+.econo{
+    background-color: #f5f5ff;
+}
+.econo .card{
+    border: 0px solid #ddd;
+    box-shadow: 0px 6px 23px #ddd;
+    padding: 59px 0px;
+}
+.econo .fix{
+    width: 18rem;
+    margin: auto;
+}
+
+.card-title {
+    width: 80px;
+    height: 80px;
+    background: #ddd;
+    margin: auto;
+    line-height: 80px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 30px;
+    font-size: 33px;
+}
+.card-body h5{}
+.card-body h6{}
+.card-text{
+    font-size: 14px;
+    font-weight: 400;
+}
+.card-body p span{
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 30px;
+    position: relative;
+    top: 20px;
+}
+
+
+.card-body a{
+    position: relative;
+    top: 29px;
+    font-weight: 600;
+}
+
+/* servive */
+.sv h5{
+    font-size: 16px;
+    font-weight: 400;
+}
+.sv h3{
+
+}
+.sv p {
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 32px;
+}
+
+.sv a{
+    box-shadow: 1px 8px 43px #00000040;
+    margin-bottom: 20px;
+}
+
+.service .card-body{
+    padding: 45px 20px;
+}
+
+.svv{
+    border: 0px;
+    box-shadow: 0px 8px 38px #0000003d;
+
+}
+
+.mm{
+
+    top: 30px;
+    position: relative;
+    margin-bottom: 40px;
+}
+.mm img{
+    position: absolute;
+    top: -50px;
+    left: 25px;
+    z-index: 1;
+    width: 90px;
+}
+
+/* contact */
+.contact{
+    background-color: #f9f9ff;
+}
+
+ 
+.contact form{
+    background-color: #fff;
+}
+
+
+.frm{
+    padding: 0 !important;
+}
+
+
+.rt{
+    position: relative;
+    top: 45px;
+}
+
+/* footer */
+
+footer p{
+    background-color: #04091e;
+    color: #fff;
+}
